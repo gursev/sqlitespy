@@ -12,7 +12,7 @@ Specific Options:
 
 -s, --show-schema, Show database schema
 
-    --find x,y,z, Array, Strings to search
+--find x,y,z, Array, Strings to search
 
 -c, --case-sensitive, Perform case sensitive search. Default is case insensitive.
 
