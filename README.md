@@ -1,8 +1,6 @@
-sqlitespy
+sqlitespy - Ruby script for sqlite database analysis. 
 
 ---------------------
-
-Ruby script for sqlite database analysis. 
 
 Usage: sqlitespy.rb [options]
 
@@ -25,3 +23,5 @@ Specific Options:
 -v, --verbose, Verbose output
 
 -h, --help, Show this message
+
+Additional details available on my blog: http://gursevkalra.blogspot.com/2012/02/sqlitespy-for-sqlite-database-analysis.html
