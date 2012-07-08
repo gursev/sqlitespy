@@ -1,6 +1,6 @@
 sqlitespy
 
-=========
+---------------------
 
 Ruby script for sqlite database analysis. 
 
